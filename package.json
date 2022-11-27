@@ -1,0 +1,8 @@
+{
+  "name": "banana-store",
+  "version": "1.0.0",
+  "author": "lhas",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/backend", "packages/frontend"]
+}

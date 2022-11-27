@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orders",
+  "info": {
+    "singularName": "order",
+    "pluralName": "orders",
+    "displayName": "Order"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "addressStreet": {
+      "type": "string"
+    },
+    "addressNumber": {
+      "type": "string"
+    },
+    "addressNeighbourhood": {
+      "type": "string"
+    },
+    "addressZipcode": {
+      "type": "string"
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "approved",
+        "failed"
+      ]
+    }
+  }
+}

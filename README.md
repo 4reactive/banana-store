@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="220" src="./assets/icon.svg" alt="Banana Store" />
+  <img width="220px" src="./assets/icon.svg" alt="Banana Store" />
 </p>
 
 # Banana Store

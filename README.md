@@ -1,5 +1,5 @@
-<div style="max-width: 240px; margin: 0 auto; display: block;">
-![](./assets/icon.svg)
+<div style="max-width: 240px; margin: 0 auto; text-align: center; display: block;">
+    <img src="./assets/icon.svg" alt="Banana Store" />
 </div>
 
 # Banana Store

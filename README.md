@@ -1,4 +1,6 @@
+<div style="max-width: 240px; margin: 0 auto; display: block;">
 ![](./assets/icon.svg)
+</div>
 
 # Banana Store
 

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "order-item",
     "pluralName": "order-items",
-    "displayName": "OrderItem"
+    "displayName": "OrderItem",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -23,6 +24,9 @@
     },
     "price": {
       "type": "decimal"
+    },
+    "quantity": {
+      "type": "integer"
     }
   }
 }

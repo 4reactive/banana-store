@@ -1,5 +1,5 @@
-<div style="text-align: center; display: block; margin: 0 auto;">
-    <img style="width: 220px; display: block; margin: 0 auto;" src="./assets/icon.svg" alt="Banana Store" />
+<p align="center" width="100%">
+    <img width="220" src="./assets/icon.svg" alt="Banana Store" />
 </div>
 
 # Banana Store
